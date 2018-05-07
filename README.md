@@ -8,7 +8,7 @@ Installed: Docker, Java 1.8, Maven 3.x
 
 ##### Clone source code from git
 ```
-$  git clone https://github.com/dstar55/docker-hello-world-spring-boot .
+$  git clone https://github.com/publiccloudeng/spring-boot-app.git.
 ```
 
 ##### Build project with Maven
@@ -52,6 +52,5 @@ $ curl [IPAddress]:8080
 
 the respone should be
 ```
-Hello World
+Hello Spinnaker
 ```
-

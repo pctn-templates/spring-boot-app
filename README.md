@@ -34,7 +34,7 @@ $ docker run -p 8080:8080 -it --rm hello-world-java
 ```
 
 ##### Test application
-first you need to find ContainerId of the running Docker image
+first you need to find Container ID of the running Docker image
 ```
 $ docker ps
 ```
